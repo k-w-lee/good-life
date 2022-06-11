@@ -2,7 +2,7 @@
 # Repository Description
 It available at: https://pypi.org/project/morris-learning/0.0.2/
 
-**Objective**: To have some fun, and maybe can make life more easy a bit.
+**Objective**: To make common analysis easier and more expressive.
 
 To install the package
 
