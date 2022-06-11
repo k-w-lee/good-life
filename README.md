@@ -1,7 +1,6 @@
 
-# Title
-## _Subtitle_
-
+# Repository Description
+It available at: https://pypi.org/project/morris-learning/0.0.2/
 
 **Objective**: To have some fun, and maybe can make life more easy a bit
 Some basic Python commands are:
