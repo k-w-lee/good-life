@@ -126,15 +126,9 @@ m.one_hot_encode(df, 'col3')
 +----+--------+--------+--------+-------+----------+------------+
 ```
 
-## Merging
-**Input [7]**:
-```python
-# To identify whether there is any duplicate values in a column:
-m.duplicate(df, 'col3')
-```
-**Output [7]**:
-```
-STATUS: There are 1 duplicate values in the column of "col3"
-```
+## Merging -A simplified and smarter way to merge your dataset
 
+```python
+mergex(df1 ,df2, column1, column2, df1_name=None, df2_name=None)
+```
 This is contributed by [Morris Lee](http://www.morris-lee.com/).
